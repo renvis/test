@@ -1,3 +1,1 @@
-hello
-change smade
-
+print("Hello world")
